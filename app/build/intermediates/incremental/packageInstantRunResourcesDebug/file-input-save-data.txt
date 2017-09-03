@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Sep 03 18:05:58 ART 2017
+#Sun Sep 03 19:15:30 ART 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml

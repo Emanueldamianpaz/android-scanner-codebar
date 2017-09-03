@@ -48,6 +48,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\emanu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.1\2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0\gson-2.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="C:\Users\emanu\StudioProjects\android-scanner-codebar\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.1_31ae57a4941fe59760029328f8a976bb41394de8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\emanu\.android\build-cache\091056c4e5a342fa27d2027ab718fef702235e08\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"

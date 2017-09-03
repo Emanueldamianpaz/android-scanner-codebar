@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

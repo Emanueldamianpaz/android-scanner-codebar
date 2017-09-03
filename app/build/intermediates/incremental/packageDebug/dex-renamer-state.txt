@@ -1,0 +1,7 @@
+#Sun Sep 03 18:06:10 ART 2017
+base.0=C\:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f977d48b7d59ca6dd01cc1033940b5d849c209
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50db9421a2d11cf33310a65a3841c9e96b0d936b\\classes.dex
+base.1=C\:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_50db9421a2d11cf33310a65a3841c9e96b0d936b
+file.0=C\:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_47f977d48b7d59ca6dd01cc1033940b5d849c209\\classes.dex

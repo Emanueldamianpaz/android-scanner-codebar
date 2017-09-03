@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:3:5-61
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\emanu\.android\build-cache\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\emanu\.android\build-cache\3232faeb45abfea76de8d624fa49220cfad8d527\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\emanu\.android\build-cache\091056c4e5a342fa27d2027ab718fef702235e08\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\emanu\.android\build-cache\b878755b32af691d31405f75c30340c3d828f5cb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\emanu\.android\build-cache\d7a70270089209e719a5ef56048494661b1d5512\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\emanu\.android\build-cache\c75e09b418ce21f5f68182372eb5cfa7209ebde0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\emanu\.android\build-cache\f9aeee8a1c22b985161e49e8e308b32154d077f3\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\emanu\.android\build-cache\a5e99f10cede3eb556bbf76fe93f331b532c9840\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\emanu\.android\build-cache\6630b6c17b99202a0b1d59891a3361f7c944721e\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.alumno.proyecto01_cudek_rivera_paz.MainActivity
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.alumno.proyecto01_cudek_rivera_paz.scanner.ScannerActivity
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:18:9-61
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:18:19-58
+activity#com.example.alumno.proyecto01_cudek_rivera_paz.detail.DetailActivity
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:19:9-59
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:19:19-56
+activity#com.example.alumno.proyecto01_cudek_rivera_paz.products.ListProductActivity
+ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:20:9-75
+	android:name
+		ADDED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml:20:19-63
+uses-sdk
+INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\emanu\.android\build-cache\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\emanu\.android\build-cache\3232faeb45abfea76de8d624fa49220cfad8d527\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\emanu\.android\build-cache\091056c4e5a342fa27d2027ab718fef702235e08\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\emanu\.android\build-cache\b878755b32af691d31405f75c30340c3d828f5cb\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\emanu\.android\build-cache\d7a70270089209e719a5ef56048494661b1d5512\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\emanu\.android\build-cache\c75e09b418ce21f5f68182372eb5cfa7209ebde0\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\emanu\.android\build-cache\f9aeee8a1c22b985161e49e8e308b32154d077f3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\emanu\.android\build-cache\a5e99f10cede3eb556bbf76fe93f331b532c9840\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\emanu\.android\build-cache\6630b6c17b99202a0b1d59891a3361f7c944721e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\emanu\.android\build-cache\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\emanu\StudioProjects\android-scanner-codebar\app\src\main\AndroidManifest.xml

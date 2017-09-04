@@ -44,6 +44,10 @@
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode03.jpg",
+        "source": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\src\\main\\res\\drawable\\barcode03.jpg"
+    },
+    {
         "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable\\notification_icon_background.xml"
     },
@@ -72,6 +76,10 @@
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode02.jpg",
+        "source": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\src\\main\\res\\drawable\\barcode02.jpg"
+    },
+    {
         "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
@@ -86,6 +94,10 @@
     {
         "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\barcode01.jpg",
+        "source": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\src\\main\\res\\drawable\\barcode01.jpg"
     },
     {
         "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",

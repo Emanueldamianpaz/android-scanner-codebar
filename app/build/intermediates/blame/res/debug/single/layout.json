@@ -144,10 +144,6 @@
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_detail.xml",
-        "source": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\src\\main\\res\\layout\\activity_detail.xml"
-    },
-    {
         "merged": "C:\\Users\\emanu\\StudioProjects\\android-scanner-codebar\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "C:\\Users\\emanu\\.android\\build-cache\\71fcd69bad5e9d7ba238d1cb486a5b3720e3f2a9\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },

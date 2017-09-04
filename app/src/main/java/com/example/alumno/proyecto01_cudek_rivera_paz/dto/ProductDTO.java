@@ -6,16 +6,26 @@ public class ProductDTO {
     private String id;
     private String label;
     private int stock;
+    private String idPhoto;
 
-    public ProductDTO(String id, String label, int stock) {
+    public ProductDTO(String id, String label, int stock, String idPhoto) {
         this.id = id;
         this.label = label;
         this.stock = stock;
+        this.idPhoto = idPhoto;
     }
 
     public String getId() {
 
         return id;
+    }
+
+    public String getIdPhoto() {
+        return idPhoto;
+    }
+
+    public void setIdPhoto(String idPhoto) {
+        this.idPhoto = idPhoto;
     }
 
     public void setId(String id) {

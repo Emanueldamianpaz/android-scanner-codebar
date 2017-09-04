@@ -1,29 +1,22 @@
 {
   "listProducts": [
     {
-      "id": "100000000",
+      "id": "0000000001",
       "label": "Caño de agua",
-      "stock": 4
+      "stock": 4,
+      "idPhoto": "barcode01"
     },
     {
-      "id": "200000000",
+      "id": "0000000002",
       "label": "Caño de luz",
-      "stock": 4
+      "stock": 4,
+      "idPhoto": "barcode02"
     },
     {
-      "id": "300000000",
+      "id": "0000000003",
       "label": "Caño de gas",
-      "stock": 4
-    },
-    {
-      "id": "400000000",
-      "label": "Cable de 1 pulgada",
-      "stock": 4
-    },
-    {
-      "id": "500000000",
-      "label": "Cable de 1 1/2 pulgada",
-      "stock": 4
+      "stock": 4,
+      "idPhoto": "barcode03"
     }
   ]
 }

@@ -10,406 +10,105 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7eb4668-b344-4abe-affc-fb37e8f3b739" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.1_31ae57a4941fe59760029328f8a976bb41394de8/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/DefaultDateTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/ExclusionStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldAttributes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingPolicy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/FieldNamingStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson$FutureTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/Gson.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/GsonBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/InstanceCreator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonDeserializationContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonDeserializer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonIOException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonNull.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonParseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonPrimitive.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonSerializationContext.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonSerializer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonStreamParser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/JsonSyntaxException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/LongSerializationPolicy$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/LongSerializationPolicy$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/LongSerializationPolicy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/TypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/TypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/TypeAdapterFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/annotations/Expose.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/annotations/JsonAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/annotations/SerializedName.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/annotations/Since.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/annotations/Until.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/$Gson$Preconditions.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/$Gson$Types$GenericArrayTypeImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/$Gson$Types$ParameterizedTypeImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/$Gson$Types$WildcardTypeImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/$Gson$Types.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ConstructorConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Excluder$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Excluder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/JsonReaderInternalAccess.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LazilyParsedNumber.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$AvlBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$AvlIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$EntrySet$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$EntrySet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$KeySet$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$KeySet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$LinkedTreeMapIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedHashTreeMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$EntrySet$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$EntrySet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$KeySet$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$KeySet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$LinkedTreeMapIterator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap$Node.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/LinkedTreeMap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/ObjectConstructor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Primitives.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Streams$AppendableWriter$CurrentWrite.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Streams$AppendableWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/Streams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/UnsafeAllocator$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/UnsafeAllocator$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/UnsafeAllocator$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/UnsafeAllocator$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/UnsafeAllocator.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ArrayTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ArrayTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/CollectionTypeAdapterFactory$Adapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/CollectionTypeAdapterFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/DateTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/DateTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/JsonTreeReader$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/JsonTreeReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/JsonTreeWriter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/JsonTreeWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/MapTypeAdapterFactory$Adapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/MapTypeAdapterFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ObjectTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ObjectTypeAdapter$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ObjectTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$Adapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$BoundField.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/SqlDateTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/SqlDateTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TimeTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TimeTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TreeTypeAdapter$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TreeTypeAdapter$GsonContextImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TreeTypeAdapter$SingleTypeFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TreeTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$10.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$11.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$12.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$13.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$15.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$16.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$17.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$18.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$19.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$20.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$21.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$22.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$23.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$24.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$25.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$26$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$26.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$27.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$28.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$29.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$30.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$31.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$32.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$33.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$34.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$35$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$35.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$36.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$8.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$9.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters$EnumTypeAdapter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/TypeAdapters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/internal/bind/util/ISO8601Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/reflect/TypeToken.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/JsonReader$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/JsonReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/JsonScope.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/JsonToken.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/JsonWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.1.jar_6bzxokx7j7e8xch164l2hkq5/com/google/gson/stream/MalformedJsonException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/color.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/buildId.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az-rAZ/values-az-rAZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be-rBY/values-be-rBY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn-rBD/values-bn-rBD.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs-rBA/values-bs-rBA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et-rEE/values-et-rEE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu-rES/values-eu-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl-rES/values-gl-rES.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu-rIN/values-gu-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is-rIS/values-is-rIS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka-rGE/values-ka-rGE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk-rKZ/values-kk-rKZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km-rKH/values-km-rKH.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn-rIN/values-kn-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky-rKG/values-ky-rKG.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo-rLA/values-lo-rLA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk-rMK/values-mk-rMK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml-rIN/values-ml-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn-rMN/values-mn-rMN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr-rIN/values-mr-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms-rMY/values-ms-rMY.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my-rMM/values-my-rMM.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa-rIN/values-pa-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si-rLK/values-si-rLK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq-rAL/values-sq-rAL.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta-rIN/values-ta-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te-rIN/values-te-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur-rPK/values-ur-rPK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_365fd542dfde526625a4dd4f0358f561d12d8a58.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_578325e625647be3c0972359cde80dea713e603a.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_62e33b1deabcfa2e407257f15f7a3f3e88f80073.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_79321190963ca71b52c58111709b155e94d7a73d.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_81759ef488120ef6446f1a74adcfed4ceadda9bc.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_92b2c529dc1758b8998010d674955df3285e8733.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_b28b9c7f2640bae3d40bc4ce96ad3f6c291c4396.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_bbe273d67ecb618d1b85c982f66aded9ca8632f5.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/classes_c2a52beb1d0570b2dfab0fe6e88738b0fd1d8b59.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/core-3.3.0_e1fb1250a66ebe446c2d5b22da1019d9aacb66d7.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_fce49c1478844f7d0510ec00a7b4d5810509002b.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/gson-2.8.1_31ae57a4941fe59760029328f8a976bb41394de8.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_ea46b6b47e32e3e2855db2861e8e27b301b9995f.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/barcode01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/barcode02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable/barcode03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/barcode01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/barcode02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/barcode03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-04-05-978.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-04-14-011.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-06-10-624.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-49-17-350.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-49-27-404.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-21-50-55-232.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-03-22-06-58-403.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/layout.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/detail/DetailActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_detail.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_365fd542dfde526625a4dd4f0358f561d12d8a58/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_578325e625647be3c0972359cde80dea713e603a/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62e33b1deabcfa2e407257f15f7a3f3e88f80073/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79321190963ca71b52c58111709b155e94d7a73d/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81759ef488120ef6446f1a74adcfed4ceadda9bc/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92b2c529dc1758b8998010d674955df3285e8733/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b28b9c7f2640bae3d40bc4ce96ad3f6c291c4396/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbe273d67ecb618d1b85c982f66aded9ca8632f5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c2a52beb1d0570b2dfab0fe6e88738b0fd1d8b59/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_e1fb1250a66ebe446c2d5b22da1019d9aacb66d7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.1_31ae57a4941fe59760029328f8a976bb41394de8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_ea46b6b47e32e3e2855db2861e8e27b301b9995f/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_47f977d48b7d59ca6dd01cc1033940b5d849c209/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_50db9421a2d11cf33310a65a3841c9e96b0d936b/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/detail/DetailActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity$2.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$drawable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$drawable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/zYYpDstn6eB7jIytGnv6Q3u1h+s=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/zip-cache/zYYpDstn6eB7jIytGnv6Q3u1h+s=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/zYYpDstn6eB7jIytGnv6Q3u1h+s=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/zYYpDstn6eB7jIytGnv6Q3u1h+s=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_1.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_2.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/slices/slice_6.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/example/alumno/proyecto01_cudek_rivera_paz/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_gitignore" afterPath="$PROJECT_DIR$/_gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R.java" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/example/alumno/proyecto01_cudek_rivera_paz/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_1/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_2/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_slice_6/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_scanner.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/activity_scanner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/restart-dex/debug/build-info.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml" />
@@ -456,13 +155,20 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="312">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScannerActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
-                <element signature="e#788#1125#0" expanded="true" />
-                <element signature="e#1124#1125#0" expanded="true" />
-                <element signature="e#1254#1595#0" expanded="true" />
-                <element signature="e#1594#1595#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2171,20 +1877,21 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_list_product.xml" />
         <option value="$PROJECT_DIR$/local.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentIntegrator.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/IntentResult.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/data.json" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/Product.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/Deposit.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProducts.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java" />
         <option value="$PROJECT_DIR$/_gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java" />
       </list>
     </option>
@@ -2220,7 +1927,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2237,6 +1943,46 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-scanner-codebar" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-scanner-codebar" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2325,8 +2071,26 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="proyecto01_cudek_rivera_paz" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dto" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android-scanner-codebar" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2336,6 +2100,7 @@
       <pane id="ProjectPane">
         <subPane />
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2344,7 +2109,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
-    <property name="device.picker.selection" value="Nexus_5X_API_26_x86" />
+    <property name="device.picker.selection" value="ZX1PB28J68" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -2668,6 +2433,14 @@
       <option name="presentableId" value="Default" />
       <updated>1504225936331</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added gson to database">
+      <created>1504480889664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504480889664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2684,27 +2457,26 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.49785176" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3282353" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5064447" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21908127" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31095406" sideWeight="0.49570355" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3121319" sideWeight="0.49570355" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286219" sideWeight="0.4935553" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25295383" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2715,6 +2487,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2728,21 +2501,18 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added gson to database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added gson to database" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java</url>
-          <line>17</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/local.properties">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2754,19 +2524,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_list_product.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" />
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_list_product.xml" />
     <entry file="file://$PROJECT_DIR$/app/proguard-rules.pro" />
     <entry file="file://$PROJECT_DIR$/local.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2775,22 +2548,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-272">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="e#311#344#0" expanded="true" />
-            <element signature="e#369#404#0" expanded="true" />
-            <element signature="e#430#465#0" expanded="true" />
-            <element signature="e#489#522#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2815,14 +2572,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/data.json" />
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="641">
@@ -2858,22 +2608,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="59" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="1" selection-start-line="0" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/DepositProductsDTO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -2887,19 +2621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="56" column="48" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2907,41 +2632,107 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/barcode01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_list_product.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/products/ListProductActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/barcode02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-456">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/dto/ProductDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_scanner.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/scanner/ScannerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/alumno/proyecto01_cudek_rivera_paz/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding>
-            <element signature="e#788#1125#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1254#1595#0" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

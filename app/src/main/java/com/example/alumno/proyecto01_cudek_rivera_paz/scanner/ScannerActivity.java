@@ -12,21 +12,19 @@ import android.widget.Toast;
 import com.example.alumno.proyecto01_cudek_rivera_paz.R;
 
 
-public class ScannerActivity extends AppCompatActivity implements View.OnClickListener {
+public class ScannerActivity extends AppCompatActivity {
 
-    private Button scanBtn;
-    private TextView formatTxt, contentTxt;
+    private TextView formatTxt;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_scanner);
 
-        scanBtn = (Button) this.findViewById(R.id.scan_button);
         formatTxt = (TextView) this.findViewById(R.id.scan_format);
-        contentTxt = (TextView) this.findViewById(R.id.scan_content);
 
-        scanBtn.setOnClickListener(this);
+        IntentIntegrator scanIntegrator = new IntentIntegrator(this);
+        scanIntegrator.initiateScan();
     }
 
     public void onActivityResult(int requestCode, int resultCode, Intent intent) {
@@ -37,7 +35,6 @@ public class ScannerActivity extends AppCompatActivity implements View.OnClickLi
             String scanFormat = scanningResult.getFormatName();
 
             formatTxt.setText("FORMAT: " + scanFormat);
-            contentTxt.setText("CONTENT: " + scanContent);
         } else {
             Toast toast = Toast.makeText(getApplicationContext(),
                     "No scan data received!", Toast.LENGTH_SHORT);
@@ -45,12 +42,6 @@ public class ScannerActivity extends AppCompatActivity implements View.OnClickLi
         }
     }
 
-    @Override
-    public void onClick(View v) {
-        if (v.getId() == R.id.scan_button) {
-            IntentIntegrator scanIntegrator = new IntentIntegrator(this);
-            scanIntegrator.initiateScan();
-        }
-    }
+
 }
 

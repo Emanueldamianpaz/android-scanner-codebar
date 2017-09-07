@@ -5,18 +5,17 @@ import java.util.List;
 
 public class DepositProductsDTO {
 
-    private List<ProductDTO> products;
+    private List<ProductDTO> listProducts;
 
-    public List<ProductDTO> getProducts() {
-        return products;
+    public DepositProductsDTO(List<ProductDTO> listProducts) {
+        this.listProducts = listProducts;
     }
 
-    public void setProducts(List<ProductDTO> products) {
-        this.products = products;
+    public List<ProductDTO> getListProducts() {
+        return listProducts;
     }
 
-    public DepositProductsDTO(List<ProductDTO> products) {
-
-        this.products = products;
+    public void setListProducts(List<ProductDTO> listProducts) {
+        this.listProducts = listProducts;
     }
 }

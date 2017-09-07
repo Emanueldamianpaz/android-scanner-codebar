@@ -1,4 +1,4 @@
-package com.example.alumno.proyecto01_cudek_rivera_paz.scanner;
+package com.example.alumno.proyecto01_cudek_rivera_paz.interpreterScanner;
 
 
 import java.util.Arrays;

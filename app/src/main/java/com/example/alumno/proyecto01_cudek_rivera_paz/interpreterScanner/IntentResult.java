@@ -1,4 +1,4 @@
-package com.example.alumno.proyecto01_cudek_rivera_paz.scanner;
+package com.example.alumno.proyecto01_cudek_rivera_paz.interpreterScanner;
 
 /**
  * <p>Encapsulates the result of a barcode scan invoked through {@link IntentIntegrator}.</p>

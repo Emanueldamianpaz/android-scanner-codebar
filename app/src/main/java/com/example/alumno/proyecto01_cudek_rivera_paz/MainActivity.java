@@ -6,12 +6,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.alumno.proyecto01_cudek_rivera_paz.dto.DepositProductsDTO;
-import com.example.alumno.proyecto01_cudek_rivera_paz.dto.ProductDTO;
 import com.example.alumno.proyecto01_cudek_rivera_paz.products.ListProductActivity;
-import com.example.alumno.proyecto01_cudek_rivera_paz.scanner.IntentIntegrator;
 import com.example.alumno.proyecto01_cudek_rivera_paz.scanner.ScannerActivity;
-import com.google.gson.Gson;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -44,21 +40,12 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        /* TODO Hacer andar el listado
-
-        Gson g = new Gson();
-        DepositProductsDTO listProduct = g.fromJson(json, DepositProductsDTO.class);
-
-        for (ProductDTO product : listProduct.getProducts()) {
-            System.out.println(product.getId());
-        }*/
-
         Button scanBtn = (Button) this.findViewById(R.id.btnScanner);
         scanBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent myIntent = new Intent(MainActivity.this, ScannerActivity.class);
-                // myIntent.putExtra("key", value); //Optional parameters
+                myIntent.putExtra("listProducts", json); //Optional parameters
                 MainActivity.this.startActivity(myIntent);
             }
         });
@@ -68,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent myIntent = new Intent(MainActivity.this, ListProductActivity.class);
-                // myIntent.putExtra("key", value); //Optional parameters
+                myIntent.putExtra("listProducts", json); //Optional parameters
                 MainActivity.this.startActivity(myIntent);
             }
         });

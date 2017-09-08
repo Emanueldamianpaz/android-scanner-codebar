@@ -63,7 +63,6 @@ public class ScannerActivity extends AppCompatActivity {
                 if (scanContent.equals(product.getId())) {
                     lblTitle.setText(product.getLabel());
                     lblStock.setText("Stock: " + String.valueOf(product.getStock()) + " unidades");
-
                     int imageResource = getResources().getIdentifier("@drawable/" + product.getIdPhoto(), null, getPackageName());
                     Drawable res = getResources().getDrawable(imageResource);
                     imgProduct.setImageDrawable(res);
@@ -79,8 +78,5 @@ public class ScannerActivity extends AppCompatActivity {
         }
     }
 
-    private void setViewToResults(ProductDTO product) {
-
-    }
 }
 

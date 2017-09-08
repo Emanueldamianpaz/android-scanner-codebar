@@ -1,6 +1,8 @@
 package com.example.alumno.proyecto01_cudek_rivera_paz.dto;
 
 
+
+
 public class ProductDTO {
 
     private String id;
@@ -47,4 +49,6 @@ public class ProductDTO {
     public void setStock(int stock) {
         this.stock = stock;
     }
+
+
 }

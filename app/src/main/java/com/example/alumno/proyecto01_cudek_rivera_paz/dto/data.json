@@ -9,13 +9,13 @@
     {
       "id": "0000000002",
       "label": "Caño de luz",
-      "stock": 4,
+      "stock": 10,
       "idPhoto": "barcode02"
     },
     {
       "id": "0000000003",
       "label": "Caño de gas",
-      "stock": 4,
+      "stock": 20,
       "idPhoto": "barcode03"
     }
   ]

@@ -1896,13 +1896,14 @@ containing a value of this type.
         public static final int ifRoom=0x7f0b001f;
         public static final int image=0x7f0b0029;
         public static final int imgProduct=0x7f0b005f;
+        public static final int imgProductDetail=0x7f0b0079;
         public static final int info=0x7f0b006e;
         public static final int lblStock=0x7f0b0060;
         public static final int lblTitle=0x7f0b0057;
         public static final int line1=0x7f0b0073;
         public static final int line3=0x7f0b0075;
         public static final int listMode=0x7f0b0009;
-        public static final int listProducts=0x7f0b0058;
+        public static final int listProductsContainer=0x7f0b0058;
         public static final int list_item=0x7f0b002b;
         public static final int media_actions=0x7f0b0067;
         public static final int middle=0x7f0b001c;
@@ -1914,6 +1915,7 @@ containing a value of this type.
         public static final int notification_main_column=0x7f0b006a;
         public static final int notification_main_column_container=0x7f0b0069;
         public static final int parentPanel=0x7f0b0030;
+        public static final int product_item_layout=0x7f0b0078;
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
         public static final int radio=0x7f0b0040;
@@ -1958,6 +1960,8 @@ containing a value of this type.
         public static final int title_template=0x7f0b003a;
         public static final int top=0x7f0b0023;
         public static final int topPanel=0x7f0b0039;
+        public static final int txtStockDetail=0x7f0b007b;
+        public static final int txtTitleDetail=0x7f0b007a;
         public static final int up=0x7f0b0008;
         public static final int useLogo=0x7f0b0012;
         public static final int withText=0x7f0b0021;
@@ -2015,10 +2019,11 @@ containing a value of this type.
         public static final int notification_template_media_custom=0x7f04002a;
         public static final int notification_template_part_chronometer=0x7f04002b;
         public static final int notification_template_part_time=0x7f04002c;
-        public static final int select_dialog_item_material=0x7f04002d;
-        public static final int select_dialog_multichoice_material=0x7f04002e;
-        public static final int select_dialog_singlechoice_material=0x7f04002f;
-        public static final int support_simple_spinner_dropdown_item=0x7f040030;
+        public static final int product_item=0x7f04002d;
+        public static final int select_dialog_item_material=0x7f04002e;
+        public static final int select_dialog_multichoice_material=0x7f04002f;
+        public static final int select_dialog_singlechoice_material=0x7f040030;
+        public static final int support_simple_spinner_dropdown_item=0x7f040031;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

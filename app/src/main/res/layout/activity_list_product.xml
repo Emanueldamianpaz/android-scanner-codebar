@@ -2,42 +2,44 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_list_product"
-    android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_alignParentTop="true"
-    android:layout_alignParentRight="true"
     android:layout_alignParentEnd="true"
-    tools:context="com.example.alumno.proyecto01_cudek_rivera_paz.MainActivity"
-    android:weightSum="1">
+    android:layout_alignParentRight="true"
+    android:layout_alignParentTop="true"
+    android:orientation="vertical"
+    android:weightSum="1"
+    tools:context="com.example.alumno.proyecto01_cudek_rivera_paz.MainActivity">
 
 
-    <TextView android:id="@+id/lblTitle"
+    <TextView
+        android:id="@+id/lblTitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Listado productos"
         android:fontFamily="sans-serif"
-        android:textStyle="bold"
-        android:textSize="40dp"
+        android:text="Listado productos"
         android:textAlignment="center"
-        android:textColor="#000"/>
+        android:textColor="#000"
+        android:textSize="40dp"
+        android:textStyle="bold" />
 
-    <ListView
-        android:id="@+id/listProducts"
+    <LinearLayout
+        android:id="@+id/listProductsContainer"
         android:layout_width="match_parent"
         android:layout_height="350dp"
-        android:headerDividersEnabled="false">
-    </ListView>
+        android:headerDividersEnabled="false"
+        android:orientation="vertical"></LinearLayout>
 
-    <Button android:id="@+id/btnVolver"
+    <Button
+        android:id="@+id/btnVolver"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="30px"
-        android:text="Volver"
         android:fontFamily="sans-serif"
-        android:textSize="15dp"
+        android:text="Volver"
         android:textAlignment="center"
-        android:textColor="#000"/>
+        android:textColor="#000"
+        android:textSize="15dp" />
 
 </LinearLayout>

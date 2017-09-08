@@ -23,13 +23,13 @@ public class MainActivity extends AppCompatActivity {
             "    {\n" +
             "      \"id\": \"0000000002\",\n" +
             "      \"label\": \"Caño de luz\",\n" +
-            "      \"stock\": 4,\n" +
+            "      \"stock\": 10,\n" +
             "      \"idPhoto\": \"barcode02\"\n" +
             "    },\n" +
             "    {\n" +
             "      \"id\": \"0000000003\",\n" +
             "      \"label\": \"Caño de gas\",\n" +
-            "      \"stock\": 4,\n" +
+            "      \"stock\": 20,\n" +
             "      \"idPhoto\": \"barcode03\"\n" +
             "    }\n" +
             "  ]\n" +
